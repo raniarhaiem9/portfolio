@@ -172,6 +172,7 @@ body {
   top: -20%;
   left: -20%;
   transform: rotate(25deg);
+    pointer-events: none;
 }
 .project-card:hover {
   transform: translateY(-8px);
